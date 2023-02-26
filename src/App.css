@@ -12,7 +12,7 @@
     align-items: center;
     flex-direction: column;
     border: none;
-    background-image: url(./assets/fondo1.jpg);
+    /* background-image: url(./assets/fondo1.jpg); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center
