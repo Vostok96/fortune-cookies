@@ -29,6 +29,7 @@
     text-align: center;
     /* margin-top: -10rem; */
     display: flex;
+    justify-content: center;
   }
 
   .papper{
@@ -81,6 +82,7 @@
     cursor: pointer;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 1);
     transform: translateY(-4px);
+   
 
   }
 
@@ -89,4 +91,7 @@
     width: 40%;
     min-height: 20vh;
     overflow:hidden ;
+    display: flex;
+    text-align: center;
+    justify-content: center;
   }
