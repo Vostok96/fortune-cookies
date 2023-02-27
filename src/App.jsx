@@ -30,7 +30,7 @@ function App() {
     <div className="App" style={{ backgroundImage: `url(${randomFondos})` }}>
       <FortuneCard phrasesData={phrases[index]}/>
       <Button onClick={changeIndex}/>
-      <iframe src="https://phenomenal-hamster-254d35.netlify.app/assets/project_3/text_light.html" frameborder="0"></iframe>
+      <iframe src="./src/assets/letters/text_light.html" frameborder="0"></iframe>
     </div>  
       
   )
